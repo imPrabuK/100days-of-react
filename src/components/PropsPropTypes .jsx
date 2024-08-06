@@ -1,7 +1,4 @@
 import PropTypes from "prop-types";
-
-// import PropTypes from "prop-types";
-
 export const PropsPropTypes = (props) => {
   return (
     <div className="student">
@@ -32,7 +29,5 @@ PropsPropTypes.propTypes = {
 };
 
 PropsPropTypes.defaultProps = {
-  name: "No name",
-  age: 0,
-  isMarried: false,
+  name: "No value",
 };

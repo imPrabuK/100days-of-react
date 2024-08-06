@@ -6,10 +6,10 @@ Following this steps
 
 100days challenge
 
-Day 01 : 05-08-2024
+# Day 01 : 05-08-2024
 
-# 1. Understand the Basics
+1.Understand the Basics
 
-# 2. Learn React Fundamentals components, JSX and props.
+2.Learn React Fundamentals components, JSX and props.
 
-# 3. Props
+3.Props

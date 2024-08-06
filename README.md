@@ -6,7 +6,7 @@ Following this steps
 
 100days challenge
 
-# Day 01 : 05-08-2024
+# Day 01 : 07-08-2024
 
 1.Understand the Basics
 

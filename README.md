@@ -13,3 +13,10 @@ Following this steps
 2.Learn React Fundamentals components, JSX and props.
 
 3.Props
+
+# Day 02 : 12-08-2024
+
+4.Event Handling
+
+5.Conditional Rendering
+

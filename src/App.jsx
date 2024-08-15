@@ -8,6 +8,7 @@ import InputWithEvent from "./components/InputWithEvent";
 import ClickCounter from "./components/Day03-state-and-lifecycle/ClickCounter";
 import AutoIncrementTimer from "./components/Day03-state-and-lifecycle/AutoIncrementTimer";
 import TextToggleVisibility from "./components/Day03-state-and-lifecycle/TextToggleVisibility";
+import MyForm from "./components/Day04-handlingFormsAndControl/MyForm";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -35,12 +36,15 @@ function App() {
     // </Container>
 
     //State and Lifecycle.
-    <div>
-      <h1>My React App</h1>
-      <ClickCounter />
-      <AutoIncrementTimer />
-      <TextToggleVisibility />
-    </div>
+    // <div>
+    //   <h1>My React App</h1>
+    //   <ClickCounter />
+    //   <AutoIncrementTimer />
+    //   <TextToggleVisibility />
+    // </div>
+
+    //Handling Forms and Controlled Components
+    <MyForm />
   );
 }
 

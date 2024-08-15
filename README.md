@@ -23,3 +23,7 @@ Following this steps
 # Day 03 : 14-08-2024
 
 6.State and Lifecycle.
+
+# Day 04 : 15-08-2024
+
+7.Handling Forms and Controlled Components

@@ -3,12 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import { PropsPropTypes } from "./components/PropsPropTypes ";
-import ButtonWithEvent from "./components/ButtonWithEvent";
-import InputWithEvent from "./components/InputWithEvent";
-import ClickCounter from "./components/Day03-state-and-lifecycle/ClickCounter";
-import AutoIncrementTimer from "./components/Day03-state-and-lifecycle/AutoIncrementTimer";
-import TextToggleVisibility from "./components/Day03-state-and-lifecycle/TextToggleVisibility";
-import MyForm from "./components/Day04-handlingFormsAndControl/MyForm";
+import PizzaOrderForm from "./components/Day05-LiftingStateUp/PizzaOrderForm";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -43,8 +38,10 @@ function App() {
     //   <TextToggleVisibility />
     // </div>
 
-    //Handling Forms and Controlled Components
-    <MyForm />
+    // //Handling Forms and Controlled Components
+    // <MyForm />
+    //Day05-LiftingStateUp
+    <PizzaOrderForm />
   );
 }
 

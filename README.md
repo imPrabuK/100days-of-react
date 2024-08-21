@@ -37,3 +37,7 @@ Following this steps
 Think of this form like you're standing in a pizza shop. The cashier (React state) keeps track of your name, the pizza size you choose, and the toppings you add. As you make your selections, the cashier updates the order in real-time. When you're done, the cashier confirms your order.
 
 This example simplifies the concept of controlled components by relating it to a real-life pizza ordering experience. Does this approach help make things clearer?
+
+# Day 06: 21-08-2024
+
+9.Lifting State Up and Thinking in React
